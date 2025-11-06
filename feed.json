@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://lorenzboss.github.io/publii-test/this-is-my-second-post/",
+            "url": "https://lorenzboss.github.io/publii-test/this-is-my-second-post/",
+            "title": "This is my second post",
+            "summary": "Im glad, this works so well But what i dont understand, is why this code does not work correctly! function getGreeting(user) { if (user) { return &lt;h1&gt;Hello, {formatName(user)}!&lt;/h1&gt;; } return &lt;h1&gt;Hello, Stranger.&lt;/h1&gt;; }",
+            "content_html": "<p>Im glad, this works so well</p>\n<p>But what i dont understand, is why this code does not work correctly!</p>\n<pre class=\"language-jsx\"><code>function getGreeting(user) {\n  if (user) {\n    return &lt;h1&gt;Hello, {formatName(user)}!&lt;/h1&gt;;\n  }\n  return &lt;h1&gt;Hello, Stranger.&lt;/h1&gt;;\n}\n</code></pre>",
+            "author": {
+                "name": "Lorenz Boss"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-11-06T19:18:57+01:00",
+            "date_modified": "2025-11-06T19:18:57+01:00"
+        },
+        {
             "id": "https://lorenzboss.github.io/publii-test/this-is-my-first-article/",
             "url": "https://lorenzboss.github.io/publii-test/this-is-my-first-article/",
             "title": "This is my first article!",

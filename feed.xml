@@ -3,12 +3,40 @@
     <title>Lorenz Test</title>
     <link href="https://lorenzboss.github.io/publii-test/feed.xml" rel="self" />
     <link href="https://lorenzboss.github.io/publii-test" />
-    <updated>2025-11-06T18:59:44+01:00</updated>
+    <updated>2025-11-06T19:18:57+01:00</updated>
     <author>
         <name>Lorenz Boss</name>
     </author>
     <id>https://lorenzboss.github.io/publii-test</id>
 
+    <entry>
+        <title>This is my second post</title>
+        <author>
+            <name>Lorenz Boss</name>
+        </author>
+        <link href="https://lorenzboss.github.io/publii-test/this-is-my-second-post/"/>
+        <id>https://lorenzboss.github.io/publii-test/this-is-my-second-post/</id>
+
+        <updated>2025-11-06T19:18:57+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Im glad, this works so well But what i dont understand, is why this code does not work correctly! function getGreeting(user) { if (user) { return &lt;h1&gt;Hello, {formatName(user)}!&lt;/h1&gt;; } return &lt;h1&gt;Hello, Stranger.&lt;/h1&gt;; }
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Im glad, this works so well</p>
+<p>But what i dont understand, is why this code does not work correctly!</p>
+<pre class="language-jsx"><code>function getGreeting(user) {
+  if (user) {
+    return &lt;h1&gt;Hello, {formatName(user)}!&lt;/h1&gt;;
+  }
+  return &lt;h1&gt;Hello, Stranger.&lt;/h1&gt;;
+}
+</code></pre>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>This is my first article!</title>
         <author>
