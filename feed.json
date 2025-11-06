@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Lorenz Test",
+    "description": "",
+    "home_page_url": "https://lorenzboss.github.io/publii-test",
+    "feed_url": "https://lorenzboss.github.io/publii-test/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Lorenz"
+    },
+    "items": [
+        {
+            "id": "https://lorenzboss.github.io/publii-test/this-is-my-first-article/",
+            "url": "https://lorenzboss.github.io/publii-test/this-is-my-first-article/",
+            "title": "This is my first article!",
+            "summary": "This is my first blog post! I hope you see this And also i hope this works!",
+            "content_html": "\n    <h2 id=\"this-is-my-first-blog-post\">\n      This is my first blog post!\n    </h2>\n\n  <p>\n    I hope you see this And also i hope this works!\n  </p>",
+            "author": {
+                "name": "Lorenz"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-11-06T18:37:10+01:00",
+            "date_modified": "2025-11-06T18:59:44+01:00"
+        }
+    ]
+}
