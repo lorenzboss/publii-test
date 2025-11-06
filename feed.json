@@ -6,7 +6,7 @@
     "feed_url": "https://lorenzboss.github.io/publii-test/feed.json",
     "user_comment": "",
     "author": {
-        "name": "Lorenz"
+        "name": "Lorenz Boss"
     },
     "items": [
         {
@@ -16,7 +16,7 @@
             "summary": "This is my first blog post! I hope you see this And also i hope this works!",
             "content_html": "\n    <h2 id=\"this-is-my-first-blog-post\">\n      This is my first blog post!\n    </h2>\n\n  <p>\n    I hope you see this And also i hope this works!\n  </p>",
             "author": {
-                "name": "Lorenz"
+                "name": "Lorenz Boss"
             },
             "tags": [
             ],
